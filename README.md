@@ -22,3 +22,10 @@ curl localhost
 curl http://localhost/hoge/
 curl http://localhost/assets/
 ```
+
+### Clean up
+
+```sh
+make clean
+```
+Docker processes and images is deleted.
